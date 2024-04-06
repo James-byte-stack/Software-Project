@@ -20,6 +20,7 @@ import cn.hutool.core.annotation.Alias;
  * @author Jing
  * @since 2024-03-09
  */
+//car信息
 @Getter
 @Setter
 @ApiModel(value = "Car对象", description = "")
